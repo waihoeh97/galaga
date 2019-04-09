@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1330324072 source:c:\users\waiho\onedrive\documents\codeblocks\galaga\conio_yp.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<string.h>
+	"conio_yp.h"
+
+1330927944 c:\users\waiho\onedrive\documents\codeblocks\galaga\conio_yp.h
+	<_mingw.h>
+
+1502255276 source:c:\users\waiho\onedrive\documents\codeblocks\galaga\bullet.cpp
+	"DefaultHeaderFiles.h"
+
+1502358378 c:\users\waiho\onedrive\documents\codeblocks\galaga\defaultheaderfiles.h
+	<iostream>
+	<windows.h>
+	<vector>
+	<time.h>
+	<fstream>
+	"conio_yp.h"
+	"GameObject.h"
+	"Player.h"
+	"Bullet.h"
+	"Enemy.h"
+	"Enemy01.h"
+	"Enemy02.h"
+	"Enemy03.h"
+	"Enemy04.h"
+
+1502252765 c:\users\waiho\onedrive\documents\codeblocks\galaga\gameobject.h
+	"DefaultHeaderFiles.h"
+
+1502357328 c:\users\waiho\onedrive\documents\codeblocks\galaga\player.h
+	"DefaultHeaderFiles.h"
+
+1502254760 c:\users\waiho\onedrive\documents\codeblocks\galaga\bullet.h
+	"DefaultHeaderFiles.h"
+
+1502256193 c:\users\waiho\onedrive\documents\codeblocks\galaga\enemy.h
+	"DefaultHeaderFiles.h"
+
+1502256761 source:c:\users\waiho\onedrive\documents\codeblocks\galaga\enemy.cpp
+	"DefaultHeaderFiles.h"
+
+1502268424 source:c:\users\waiho\onedrive\documents\codeblocks\galaga\gameobject.cpp
+	"DefaultHeaderFiles.h"
+
+1502358985 source:c:\users\waiho\onedrive\documents\codeblocks\galaga\main.cpp
+	"DefaultHeaderFiles.h"
+
+1502358839 source:c:\users\waiho\onedrive\documents\codeblocks\galaga\player.cpp
+	"DefaultHeaderFiles.h"
+
+1502264676 c:\users\waiho\onedrive\documents\codeblocks\galaga\enemy01.h
+	"DefaultHeaderFiles.h"
+
+1502353978 source:c:\users\waiho\onedrive\documents\codeblocks\galaga\enemy01.cpp
+	"DefaultHeaderFiles.h"
+
+1502268558 c:\users\waiho\onedrive\documents\codeblocks\galaga\enemy02.h
+	"DefaultHeaderFiles.h"
+
+1502353623 source:c:\users\waiho\onedrive\documents\codeblocks\galaga\enemy02.cpp
+	"DefaultHeaderFiles.h"
+
+1502351382 c:\users\waiho\onedrive\documents\codeblocks\galaga\enemy03.h
+	"DefaultHeaderFiles.h"
+
+1502353722 source:c:\users\waiho\onedrive\documents\codeblocks\galaga\enemy03.cpp
+	"DefaultHeaderFiles.h"
+
+1502356660 c:\users\waiho\onedrive\documents\codeblocks\galaga\enemy04.h
+	"DefaultHeaderFiles.h"
+
+1502356810 source:c:\users\waiho\onedrive\documents\codeblocks\galaga\enemy04.cpp
+	"DefaultHeaderFiles.h"
+
